@@ -51,8 +51,9 @@ https://github.com/user-attachments/assets/b24ae328-29b5-4c8b-91cc-b2576b56b783
 2. A player must roll a six to move a token from home onto the board.
 3. Once on the board, tokens move clockwise based on dice outcomes.
 4. Rolling a six grants an extra turn. Rolling three consecutive sixes skips the turn.
-5. Tokens can "capture" opponent tokens by landing on the same space, sending the captured token back to its home area.
-6. The objective is to move all four tokens to the finish area before the other players.
+5. Tokens on safe spots are protected from capture.
+6. Tokens can "capture" opponent tokens by landing on the same space, sending the captured token back to its home area.
+7. The objective is to move all four tokens to the finish area before the other players.
 
 ## Known Issues
 - Some platforms may require specific OpenGL or GLFW configurations.
