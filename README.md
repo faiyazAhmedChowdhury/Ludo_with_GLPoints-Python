@@ -10,6 +10,14 @@ LudoStar is a modern take on the timeless board game Ludo, built in Python with 
 - **Customizable Board:** Easily modify board dimensions and aesthetics.
 - **Graphical Enhancements:** Smooth animations, blinking indicators, and an intuitive interface.
 
+##
+<img width="848" alt="Screenshot 2024-12-30 at 1 27 05 AM" src="https://github.com/user-attachments/assets/28fdd6e6-0c2e-45d7-8f96-7313fafe7555" />
+
+
+
+https://github.com/user-attachments/assets/b24ae328-29b5-4c8b-91cc-b2576b56b783
+
+
 ## Installation
 
 ### Requirements
