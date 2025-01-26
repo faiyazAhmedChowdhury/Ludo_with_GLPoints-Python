@@ -27,7 +27,7 @@
   <h3>3️⃣ Run the Game</h3>
     <pre><code>python ludostar.py</code></pre>
 <h3>🖼️ Screenshots and videos</h2>
-<img width="848" alt="Screenshot 2024-12-30 at 1 27 05 AM" src="https://github.com/user-attachments/assets/28fdd6e6-0c2e-45d7-8f96-7313fafe7555" />
+<img width="600" alt="Screenshot 2024-12-30 at 1 27 05 AM" src="https://github.com/user-attachments/assets/28fdd6e6-0c2e-45d7-8f96-7313fafe7555" />
 
 https://github.com/user-attachments/assets/b24ae328-29b5-4c8b-91cc-b2576b56b783
 </p>
